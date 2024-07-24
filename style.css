@@ -1,0 +1,67 @@
+h1{
+    text-align: center;
+background-color: aqua;
+border: 3px solid red;
+border-radius: 50px;
+}
+i{
+    color: red;
+}
+h2{
+    color: green;
+}
+.a{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+iframe{
+    width: 100%;
+}
+.t{
+    height: 100px;
+    color: green;
+}
+.d{
+    background-color: white;
+    width: 1500px ;
+    height: 30px;
+    border: 1px solid black;
+ 
+}
+button{
+    background-color: darkcyan;
+    width: 300px;
+    height: 29px;
+    border: 0px;
+}
+.h{
+    color: white;
+    background-color: green;
+    width: 200px;
+}
+.q{
+    color: white;
+    background-color: blue;
+    width: 1100px;
+
+}
+.arislon{
+    color: white;
+    background-color: red;
+}
+.fakt{
+    color: white;
+    background-color: black;
+
+}
+tr{
+    text-align: center;
+    
+}
+table{
+    border: 1px solid black;
+}
+td,th{
+    border: 1px solid black;
+}
